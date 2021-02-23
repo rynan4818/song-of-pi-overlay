@@ -1,0 +1,61 @@
+#pi_suuji_text {
+	text-align: right;
+    direction: ltr;
+}
+
+.mae {
+	display: inline-block;
+	font-weight: 700;
+	letter-spacing: 2px;
+	font-size: 30px;
+}
+
+.ima {
+	display: inline-block;
+	font-weight: 700;
+	letter-spacing: 2px;
+	font-size: 90px;
+}
+
+.ushiro {
+	display: inline-block;
+	font-weight: 700;
+	letter-spacing: 2px;
+	font-size: 30px;
+}
+
+#pi_ima {
+	display: block;
+	font-weight: 700;
+	letter-spacing: 2px;
+	font-size: 50px;
+}
+
+#pi_nokori {
+	display: block;
+	font-weight: 300;
+	letter-spacing: 2px;
+	font-size: 20px;
+}
+
+#pi_nokori_text {
+	display: block;
+}
+
+#pi_ima_text {
+	display: block;
+}
+
+#overlay #pi_suuji_text, #overlay #pi_nokori_text #pi_ima_text > * {
+	transition:
+		opacity var(--show),
+		transform var(--show);
+}
+
+#overlay.hidden #pi_suuji_text, #overlay.hidden #pi_nokori_text #pi_ima_text > * {
+	opacity: 0;
+	transform: translate(0, 15px);
+	transition:
+		opacity var(--hide),
+		transform var(--hide);
+}

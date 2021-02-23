@@ -1,6 +1,4 @@
-# song-of-pi-overlay
-
-■`Song of Pi (10238 Digits Ver.)` Overlay
+# `Song of Pi (10238 Digits Ver.)` Overlay
 
 ["Song of Pi (10238 Digits Ver.)"](https://beatsaver.com/beatmap/60a)の現在と残り桁数と数字をオーバーレイ表示します。
 

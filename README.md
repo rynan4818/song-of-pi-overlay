@@ -8,6 +8,8 @@
 
 **※Beat Saber HTTP Statusを今回始めて入れる方はModAssistantにあるので、それを入れるのが間違いなく簡単です。**
 
+![preview](https://rynan4818.github.io/beatsaber-overlay-noscore-obs-setting1.png)
+
 ![preview](https://rynan4818.github.io/song-of-pi-overlay_obs.png)
 
 ## 720p(1280x720)用

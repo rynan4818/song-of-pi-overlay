@@ -6,6 +6,8 @@
 
 [Beat Saber HTTP Status](https://github.com/opl-/beatsaber-http-status)または、[Beat Saber HTTP Status (デンパ時計さんVer)](https://github.com/denpadokei/beatsaber-http-status)を使用して、下記URLをOBSのブラウザソースに設定して使用可能です。
 
+**※Beat Saber HTTP Statusを今回始めて入れる方はModAssistantにあるので、それを入れるのが間違いなく簡単です。**
+
 ![preview](https://rynan4818.github.io/song-of-pi-overlay_obs.png)
 
 ## 720p(1280x720)用
@@ -23,7 +25,7 @@ https://rynan4818.github.io/song-of-pi-overlay/?modifiers=scale
 ```
 https://rynan4818.github.io/song-of-pi-overlay/?modifiers=rtl
 ```
-- top (上寄せ)
+- top (上寄せで、現在の数字と桁数の並びを入れ替え)
 ```
 https://rynan4818.github.io/song-of-pi-overlay/?modifiers=top
 ```
@@ -35,5 +37,7 @@ https://rynan4818.github.io/song-of-pi-overlay/?modifiers=top
 https://rynan4818.github.io/song-of-pi-overlay/?modifiers=rtl,top,scale
 ```
 
-曲名が "Song of Pi (10238 Digits Ver.)" の譜面のみ機能します。
+プレイしないと表示されないので、NoFailモードでプレイを流しながら、OBSの画面配置調整をして下さい。
+
+曲名が "Song of Pi (10238 Digits Ver.)" の譜面のみ機能します。(短い方のSong of Piは非対応です)
 それ以外の譜面では何も表示されません。

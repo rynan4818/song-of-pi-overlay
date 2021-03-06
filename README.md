@@ -43,3 +43,7 @@ https://rynan4818.github.io/song-of-pi-overlay/?modifiers=rtl,top,scale
 
 曲名が "Song of Pi (10238 Digits Ver.)" の譜面のみ機能します。(短い方のSong of Piは非対応です)
 それ以外の譜面では何も表示されません。
+
+# mod版
+
+BeatSaberのプレイ画面に表示するmod [SongOfPiInformation](https://github.com/rynan4818/BeatmapInformation/tree/SongOfPiInformation)も作りました。オーバーレイはプレイ本人は見えませんが、modだと見えます。お好きな方、もしくは両方でもご自由にお使い下さい。
